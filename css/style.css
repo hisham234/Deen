@@ -1,0 +1,153 @@
+h3{
+            color: brown;
+            font-size: 17px;
+            font-family: "Bitstream Charter";
+            text-align: center;
+            text-decoration: underline;
+            margin-top: 50px;
+        }
+ body{
+            background-color: darkblue;
+        }
+h5{
+            margin-bottom: 30px;
+            text-align: left;
+            font-size: 24px;
+        }
+p{
+            color: black;
+            text-align: justify;
+            font-size: 17px;
+            font-family: Dialog;
+            font-style: normal;
+
+        }
+a{
+            margin: 20px;
+
+        }
+button{
+            padding: 10px;
+            background-color: #8b0025;
+            border-radius: 12px;
+        }
+div{
+            background-color: #4bd21e;
+            width: 90%;
+            margin: auto;
+
+        }
+.one{
+    background-color: darkorange;
+            width: 90%;
+            margin: auto;
+
+        }
+.two{
+            background-color: bisque;
+            width: 90%;
+            margin: auto;
+            border-radius: 10px;
+                 }
+.three{
+            background-color: firebrick;
+            width: 90%;
+            margin: auto;
+
+        }
+    /*contact us*/
+#head_one{
+            background-color: #959a8e;
+            width: 80%;
+            margin: auto;
+            border: 10px;
+            padding: 35px;
+            margin-bottom: 10px;
+            border-radius: 75px;
+        }
+#head_two{
+            background-color: green;
+            width: 80%;
+            margin: auto;
+            border: 10px;
+            padding: 35px;
+            margin-bottom: 10px;
+            border-radius: 75px;
+
+        }
+.container{
+            width: 100%;
+            overflow: auto;
+            background-color: #ee00ff;
+        }
+table, th, td{
+           border: 2px solid black;
+           border-collapse: collapse;
+        }
+th, td{
+            background-color: bisque;
+            border-color: chocolate;
+        }
+  /*index*/
+ body{
+            background-color: darkblue;
+        }
+h1{
+            color: chartreuse;
+            font-size: 30px;
+            text-align: center;
+            text-decoration: underline;
+            font-family: Dialog;
+
+        }
+a{
+          margin: 20px;
+        }
+button{
+            padding: 10px;
+            background-color: green;
+            border-radius: 20px;
+        }
+p{
+           font-size: 15px;
+            text-align: justify;}
+
+
+
+div{
+           background-color: navajowhite;
+            width: 90%;
+            margin: auto;
+       }
+.one{background-color: darkseagreen;
+            width: 90%;
+            margin: auto;
+
+                 }
+.two{
+            background-color: orangered;
+            width: 90%;
+            margin: auto;
+
+                 }
+.three{
+            background-color: bisque;
+            width: 90%;
+            margin: auto;
+
+                 }
+/*registration*/
+form{
+    background-color: #4bd21e;
+    font-family: Dialog;
+    font-size: 90%;
+    font-style: italic;
+    width: 340px;
+    padding: 10px;
+    border: blue;
+
+
+}
+label{
+    color: darkorchid;
+}
